@@ -14,17 +14,17 @@ In building this dashboard, we'll create individual pages for each plot and a me
 For reference, see the "Screenshots" section below.
 The website must consist of 7 pages total, including:
 
-A landing page containing:
+* A landing page containing:
 
-An explanation of the project.
-Links to each visualizations page.
+    *  An explanation of the project.
+    * Links to each visualizations page.
 
 
-Four visualization pages, each with:
+* Four visualization pages, each with:
 
-A descriptive title and heading tag.
-The plot/visualization itself for the selected comparison.
-A paragraph describing the plot and its significance.
+    * A descriptive title and heading tag.
+    * The plot/visualization itself for the selected comparison.
+    * A paragraph describing the plot and its significance.
 
 
 A "Comparisons" page that:
